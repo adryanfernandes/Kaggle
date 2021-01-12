@@ -1,6 +1,8 @@
 # MOTIVAÇÃO
 Kaggle é uma das maiores plataformas de aprendizado para data ciencie, assim foi criado esse repositorio para discutir e contabilizar algum projetos tirados deste dominio.
-Nele é disponibilizado varios desafios e competições, com espaço para disculção e aperfeçoamento, mas a particularidade me atrai mais que isso.
+Nele é disponibilizado vários desafios e competições, com espaço para disculção e aperfeçoamento, mas a particularidade me atrai mais que isso. Com um grande número de data base o Kaggle é referencia na comunidade cientifica.
+
 
 Dessafios
-1- 
+
+1- (pensar sobre)
