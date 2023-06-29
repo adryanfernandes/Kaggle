@@ -5,4 +5,4 @@ Nele é disponibilizado vários desafios e competições, com espaço para discu
 
 Dessafios
 
-1- (pensar sobre)
+1- (vou escolher hj)
