@@ -5,4 +5,7 @@ Nele é disponibilizado vários desafios e competições, com espaço para discu
 
 Dessafios
 
-1- (vou escolher hj)
+1-analise de imagem
+2- analise de terreno
+3- estudo climatico
+4- projeto de acompanhamento de indicadores
