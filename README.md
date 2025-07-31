@@ -6,6 +6,9 @@ Nele é disponibilizado vários desafios e competições, com espaço para discu
 Dessafios
 
 1- analise de imagem  
+1.1 - identificação de onibus,carro e moto em video  
+1.1.1 - identificação de placa de carro e moto  
+
 2- analise de terreno  
 3- estudo climatico  
 4- projeto de acompanhamento de indicadores  
